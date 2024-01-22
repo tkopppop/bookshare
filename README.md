@@ -12,4 +12,4 @@ book (isbn)
 2.  (해킹 학회지) 보안 취약성 연구 '2023
 
 두 책 모두, 종이책 또는 전자책으로 bookk.co.kr 전용 서점에서 구매하실 수 있습니다.
-
+(https://bookk.co.kr/search?keywords=%EC%A0%95%EA%B2%BD%EC%A3%BC)
