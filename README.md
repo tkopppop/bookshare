@@ -13,3 +13,8 @@ book (isbn)
 
 두 책 모두, 종이책 또는 전자책으로 bookk.co.kr 전용 서점에서 구매하실 수 있습니다.<br>
 (https://bookk.co.kr/search?keywords=%EC%A0%95%EA%B2%BD%EC%A3%BC)
+
+[부가적 사항]
+* 활동한 해커 팀: 와우 해커 커뮤니티(오버헤드 4기 소수 정예 가족) -> 프랙 해커팀 TCLH(The Circle of Lost Hackers) 리더 -> (주)아이넷캅 코드 연구팀 주요 취약점 연구원
+* 공개한 프랙 아티클: "captain planet" 아이디로 포맷 스트링 버그 관련 아티클 공개한 한국 출신 4번째 프랙 저자 권위를 갖고 있음
+  
