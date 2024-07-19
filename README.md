@@ -9,4 +9,4 @@
 ...
 <br>
 ...<br>
-<img src="https://github.com/tkopppop/bookshare/blob/main/book1.jpeg" height=430 width=420><img src="https://github.com/tkopppop/bookshare/blob/main/book1.2.jpeg" height=430 width=420><br>
+<img src="https://github.com/tkopppop/bookshare/blob/main/book1.jpeg" height=430 width=420> <img src="https://github.com/tkopppop/bookshare/blob/main/book1.2.jpeg" height=430 width=420><br>
